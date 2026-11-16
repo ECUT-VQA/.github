@@ -1,0 +1,124 @@
+
+<div align="center">
+
+# ECUT-VQA
+
+### Visual Quality Assessment Group
+
+**East China University of Technology**
+
+*Image Quality Assessment · Computer Vision · Deep Learning*
+
+---
+
+**Advancing Visual Quality Assessment through Intelligent Perceptual Modeling**
+
+</div>
+
+## About Us
+
+Welcome to **ECUT-VQA**, the Visual Quality Assessment Group at **East China University of Technology (ECUT), China**.
+
+Our research focuses on **Image Quality Assessment (IQA)** and **perceptual visual computing**, with particular interests in no-reference image quality assessment, authentic image distortions, and deep learning-based visual quality prediction.
+
+We aim to develop effective and reproducible computational models for understanding and evaluating the perceptual quality of images.
+
+**中文简介**
+
+ECUT-VQA 是东华理工大学视觉质量评价研究团队，主要致力于图像质量评价、真实失真图像感知、深度学习及计算机视觉相关研究。
+
+本主页用于展示团队的学术研究成果、开源代码及相关科研项目，促进学术交流与科研合作。
+
+---
+
+## Research Interests
+
+Our primary research interests include:
+
+- **No-Reference Image Quality Assessment (NR-IQA)**
+- **Authentic Image Distortion Assessment**
+- **Deep Learning for Perceptual Quality Prediction**
+- **Diffusion Model Priors for Image Quality Assessment**
+- **Multi-Scale Visual Feature Extraction and Fusion**
+
+---
+
+## Featured Research Projects
+
+### 1. Dual-Stream Mutually Adaptive Quality Assessment
+
+**Paper:** Dual-stream mutually adaptive quality assessment for authentic distortion image.
+
+**Publication:** Journal of Visual Communication and Image Representation, Vol. 102, 104216, 2024.
+
+This work explores a dual-stream adaptive learning framework for assessing the perceptual quality of authentically distorted images.
+
+**Resources:**
+
+[**Paper**](https://doi.org/10.1016/j.jvcir.2024.104216) | [**GitHub Repository**](https://github.com/ECUT-VQA/Dual-Stream-Mutually-Adaptive-Quality-Assessment-for-Authentic-Distortion-Image)
+
+### 2. Multi-Scale Hierarchical Adaptive NR-IQA via Diffusion Prior
+
+**Project:** Multi-Scale Hierarchical Adaptive No-Reference Image Quality Assessment via Diffusion Prior.
+
+This research investigates diffusion priors for no-reference image quality assessment, integrating multi-scale feature representations with hierarchical adaptive quality prediction.
+
+**Research Topics:**
+
+- Diffusion-based visual representation
+- Multi-scale feature extraction
+- Hierarchical adaptive feature fusion
+- Perceptual quality prediction
+
+**Resources:**
+
+[**GitHub Repository**](https://github.com/ECUT-VQA/Diffusion-prior-multi-scale-hierarchical-adaptive-no-reference-image-quality-assessment) | [**Implementation Details**](https://github.com/ECUT-VQA/Diffusion-prior-multi-scale-hierarchical-adaptive-no-reference-image-quality-assessment/tree/master)
+
+---
+
+## Publications
+
+### 2024
+
+**Dual-stream mutually adaptive quality assessment for authentic distortion image.**
+
+*Journal of Visual Communication and Image Representation*, 102, 104216.
+
+[Paper](https://doi.org/10.1016/j.jvcir.2024.104216) | [Code](https://github.com/ECUT-VQA/Dual-Stream-Mutually-Adaptive-Quality-Assessment-for-Authentic-Distortion-Image)
+
+---
+
+## Open Source & Reproducibility
+
+We are committed to sharing research implementations and supporting reproducible research in image quality assessment.
+
+Our repositories provide available source code, implementation details, and experimental resources.
+
+Please refer to the README files of individual projects for environment requirements, dataset preparation, and implementation instructions.
+
+---
+
+## Academic Collaboration
+
+We welcome academic discussions and research collaborations in:
+
+- Image Quality Assessment
+- Computer Vision
+- Deep Learning
+- Perceptual Image Understanding
+
+For questions about individual projects, please visit the corresponding GitHub repositories.
+
+---
+
+<div align="center">
+
+### ECUT-VQA
+
+**Visual Quality Assessment Group**
+
+East China University of Technology
+
+*Research · Innovation · Open Source*
+
+</div>
