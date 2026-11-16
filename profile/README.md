@@ -131,6 +131,15 @@ This work explores a dual-stream adaptive learning framework for assessing the p
 
 ### 2. Multi-Scale Hierarchical Adaptive NR-IQA via Diffusion Prior
 
+
+**Paper Status:** Accepted by the Journal of Image and Graphics (中国图象图形学报) in 2026.
+
+**Scheduled Publication:** 2027
+
+**DOI:** [10.11834/jig.260455](https://doi.org/10.11834/jig.260455)
+
+
+
 **Project:** Multi-Scale Hierarchical Adaptive No-Reference Image Quality Assessment via Diffusion Prior.
 
 This research investigates diffusion priors for no-reference image quality assessment, integrating multi-scale feature representations with hierarchical adaptive quality prediction.
@@ -163,6 +172,24 @@ This research investigates diffusion priors for no-reference image quality asses
 ---
 
 ## Publications
+
+
+### 2026 — Accepted
+
+**Multi-Scale Hierarchical Adaptive No-Reference Image Quality Assessment via Diffusion Prior**
+
+*扩散先验多尺度层级自适应无参考图像质量评价*
+
+**Journal:** Journal of Image and Graphics (中国图象图形学报)
+
+**Status:** Accepted in 2026; scheduled for publication in 2027.
+
+**DOI:** 10.11834/jig.260455
+
+[**Paper**](https://doi.org/10.11834/jig.260455) | [**Code**](https://github.com/ECUT-VQA/Diffusion-prior-multi-scale-hierarchical-adaptive-no-reference-image-quality-assessment) | [**Implementation**](https://github.com/ECUT-VQA/Diffusion-prior-multi-scale-hierarchical-adaptive-no-reference-image-quality-assessment/tree/master)
+
+---
+
 
 ### 2024
 
