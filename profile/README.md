@@ -64,6 +64,21 @@ Our primary research interests include:
 
 This work explores a dual-stream adaptive learning framework for assessing the perceptual quality of authentically distorted images.
 
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ECUT-VQA/.github/main/profile/1-s2.0-S104732032400172X-gr3.jpg"
+    alt="Dual-Stream Mutually Adaptive Quality Assessment Framework"
+    width="90%"
+  />
+</p>
+
+<p align="center">
+  <em>Framework of the proposed dual-stream image quality assessment method.</em>
+</p>
+
+
+
 **Resources:**
 
 [**Paper**](https://doi.org/10.1016/j.jvcir.2024.104216) | [**GitHub Repository**](https://github.com/ECUT-VQA/Dual-Stream-Mutually-Adaptive-Quality-Assessment-for-Authentic-Distortion-Image)
