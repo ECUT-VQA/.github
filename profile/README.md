@@ -42,6 +42,52 @@ ECUT-VQA 是东华理工大学视觉质量评价研究团队，主要致力于�
 
 ---
 
+
+
+## Faculty
+
+### Assoc. Prof. Tonghan Wang (王同罕)
+
+**Associate Professor | Master's Supervisor**
+
+**East China University of Technology**
+
+Dr. Tonghan Wang received his Ph.D. degree from Southeast University. His research interests include image quality assessment, computer vision, image processing, pattern recognition, and intelligent visual information processing.
+
+His research particularly focuses on perceptual quality evaluation, visual signal processing, and AI-based image analysis.
+
+**Research Interests:**
+- Image Quality Assessment (IQA)
+- Computer Vision
+- Image Processing and Pattern Recognition
+- Perceptual Visual Computing
+
+[**Official Faculty Profile**](https://ses.ecut.edu.cn/09/eb/c9824a133611/page.htm)
+
+---
+
+### Assoc. Prof. Huizhen Jia (贾惠珍)
+
+**Associate Professor | Master's Supervisor**
+
+**East China University of Technology**
+
+Dr. Huizhen Jia received her Ph.D. degree from Nanjing University of Science and Technology, specializing in pattern recognition and intelligent systems.
+
+Her research focuses on image processing, pattern recognition, and machine learning, with particular interests in the theoretical and practical applications of intelligent visual analysis.
+
+**Research Interests:**
+- Image Processing
+- Pattern Recognition
+- Machine Learning
+- Computer Vision
+
+[**Official Faculty Profile**](https://ies.ecut.edu.cn/0e/06/c2315a69126/page.htm)
+
+---
+
+
+
 ## Research Interests
 
 Our primary research interests include:
