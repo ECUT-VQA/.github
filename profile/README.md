@@ -15,6 +15,17 @@
 
 </div>
 
+
+<p align="center">
+  <a href="#about-us">About Us</a> |
+  <a href="#research-interests">Research Interests</a> |
+  <a href="#featured-research-projects">Projects</a> |
+  <a href="#publications">Publications</a> |
+  <a href="#academic-collaboration">Collaboration</a>
+</p>
+
+
+
 ## About Us
 
 Welcome to **ECUT-VQA**, the Visual Quality Assessment Group at **East China University of Technology (ECUT), China**.
@@ -62,6 +73,20 @@ This work explores a dual-stream adaptive learning framework for assessing the p
 **Project:** Multi-Scale Hierarchical Adaptive No-Reference Image Quality Assessment via Diffusion Prior.
 
 This research investigates diffusion priors for no-reference image quality assessment, integrating multi-scale feature representations with hierarchical adaptive quality prediction.
+
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ECUT-VQA/Diffusion-prior-multi-scale-hierarchical-adaptive-no-reference-image-quality-assessment/master/figures/framework.jpg"
+    alt="Framework of Diffusion-Prior NR-IQA"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <em>Framework of the proposed diffusion-prior-based no-reference image quality assessment method.</em>
+</p>
+
 
 **Research Topics:**
 
